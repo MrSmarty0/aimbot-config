@@ -3,5 +3,5 @@
     "aimbot_type": "neck",
     "sniper_mode": false,
     "fast_reload": true,
-    "no_recoil": true
+    "no_recoil": false
 }
